@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Đa ngôn ngữ</string>
+    <string name="strTieuDeUserName">Đăng nhập</string>
+    <string name="strHintUserName">Tên đăng nhập ở đây</string>
+    <string name="strTieuDePassword">Mật khẩu</string>
+    <string name="strButtonLogIn">Đăng nhập</string>
+    <string name="strButtonCancel">Thoát</string>
+    <string name="strHintPassword">Mật khẩu ở đây</string>
+</resources>
